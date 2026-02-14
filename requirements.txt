@@ -1,0 +1,5 @@
+logging==0.11.0
+hashlib==2.3.0
+urllib==3.6.0
+datetime==4.3.1
+typing==3.10.0
